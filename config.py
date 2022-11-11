@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
-# 5761326348:AAHvgH3LXJC-0wJLW0EbAw3rhnxe2h4NWp4
-BOT_TOKEN = "5609158214:AAE1paJgrkCt8yKaElxaqxuw6kNvCdgODbY"
+
+BOT_TOKEN = "5761326348:AAHvgH3LXJC-0wJLW0EbAw3rhnxe2h4NWp4"
 PRAYER_API = "https://islomapi.uz/api/present/day?region=Toshkent"
 REALSOFT = -468956604
 owner_id = 1456374097

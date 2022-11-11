@@ -15,7 +15,7 @@ async def send_mess(message: types.Message):
     print("Clicked /start... Bot is running")
     await bot.send_message(chat_id=owner_id, text="Now bot is running!!!")
     while True:
-        sleep(6)
+        sleep(60)
         sticker_path = get_notify()
         if sticker_path:
             try:
